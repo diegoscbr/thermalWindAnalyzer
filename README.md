@@ -8,7 +8,7 @@ As a professional yacht racing coach, my role is to be a weather strategist to t
 
 ## Overview
 
-This repo is a lightweight **data engineering pipeline** that collects NOAA observations/forecasts with simple Python scrapers, writes tidy CSVs, and **loads them into BigQuery** for analysis and visualization. Next step: expose selected, aggregated views to a frontend.
+This repo is a lightweight **data engineering pipeline** that collects NOAA observations/forecasts from api calls via python scripts, writes tidy CSVs, and **loads them into BigQuery** for analysis and visualization. Next step: expose selected, aggregated views to a frontend.
 
 ### What it does (today)
 
