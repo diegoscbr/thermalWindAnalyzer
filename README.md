@@ -1,5 +1,10 @@
 # NOAA → BigQuery Pipeline (VIBECODING PROJECT)
-> Scrape NOAA data, land it in BigQuery, query for viz, and prep for a frontend.
+> A vibecoding project hoping to answer "why do weather forecasters always get seabreeze data wrong?"
+
+## Background
+
+As a professional yacht racing coach, my role is to be a weather strategist to the teams I coach. Often in seabreeze venues, the forecast largley underestimates the thermal strength of the wind. I have come to learn a few visual indicators that have allowed me to advise my clients more accuratley (ex: humidity/clouds over inland deserts), but want data to backup my assumptions. I am hoping to use this project to test my hypothesis:
+## When there is a high humidity index inland and a big enough temperature delta, the observed wind will be a much higher velocity at peak thermal than forecast. What the index and delta are, I hope to find out. 
 
 ## Overview
 
