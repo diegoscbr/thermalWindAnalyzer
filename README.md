@@ -38,7 +38,7 @@ pip install -r requirements.txt
 # 3) Auth to GCP (uses GOOGLE_APPLICATION_CREDENTIALS or gcloud auth)
 export GOOGLE_APPLICATION_CREDENTIALS=/path/to/sa.json
 
-# 4) Run a scraper locally (example)
+# 4) Run a scraper locally to generate .csv files
 
 # 5) Load into BigQuery
 python uploader.py
