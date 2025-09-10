@@ -1,0 +1,28 @@
+# Credentials and secrets
+*.json
+.env
+credentials/
+keys/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+thermalEnv/
+
+# Data files (optional - remove if you want to commit CSVs)
+*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+*.csv
